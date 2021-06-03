@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'Anh có yêuu em hông? 😙',
     btnYes: 'Có 🥰 ',
     btnNo: 'Không 😢 ',
-    question:' Đố anh biết trên thế giới hơn 7 tỉ người mà sao em lại yêu anh ♥️',
+    question:' Đố anh biết trên thế giới hơn 7 tỉ người mà sao em lại yêu anh đấy ♥️',
     btnReply: 'Gửi cho công chúa ♥️',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'I know your day has been STRESSFUL 😓',
